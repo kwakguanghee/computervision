@@ -22,13 +22,10 @@
     <img width="250" alt="image" src="https://github.com/user-attachments/assets/f0705d9e-ed46-4f01-a534-08d9cfeb9ed0" />
     <img width="250" alt="image" src="https://github.com/user-attachments/assets/ab50acf8-e45b-45d8-b52d-810fc089ffb0" />
 </div>
-
-
-
-
-
-
-<small>참고코드: https://github.com/pedropro/TACO</small>
+<br>
+<br>
+<br>
+<small>데이터셋 다운로드 링크: https://github.com/pedropro/TACO</small>
 
 
 
