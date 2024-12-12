@@ -25,7 +25,7 @@
 <br>
 <br>
 <br>
-<small>데이터셋 다운로드 링크: https://github.com/pedropro/TACO</small>
+<small>데이터셋 다운로드 링크:
 
 
 
